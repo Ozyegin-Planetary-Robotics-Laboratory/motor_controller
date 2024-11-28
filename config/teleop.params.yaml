@@ -1,0 +1,7 @@
+# teleop_params.yaml
+teleop_twist_joy:
+  ros__parameters:
+    axis_linear: 1  # Usually the y-axis
+    scale_linear: 1.0
+    axis_angular: 0  # Usually the x-axis
+    scale_angular: 1.0
